@@ -4,7 +4,7 @@ def turn_count(board)
     
     if #{board[turn]} == "X" | "O" 
     counter +=1
-    puts 
+    puts #{counter}
     end
     
   end
